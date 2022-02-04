@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blob Counter</string>
+    <string name="info_text">Click a square to get the block size.</string>
+</resources>
